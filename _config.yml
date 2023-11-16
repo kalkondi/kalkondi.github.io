@@ -1,3 +1,6 @@
 theme: jekyll-theme-minimal
 title: Kalkondi's homepage
 description: Bookmark this to keep an eye on Kalkondi updates!
+
+include:
+  - "_pages"
